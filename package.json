@@ -11,6 +11,7 @@
     "proxylists",
     "proxy"
   ],
+  "eslint": "^5.13.0",
   "main": "index.js",
   "scripts": {
     "lint": "eslint --config .eslintrc.js *.js sources/*.js test/**/*.js",
